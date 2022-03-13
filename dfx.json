@@ -4,6 +4,10 @@
       "main": "src/core_project/main.mo",
       "type": "motoko"
     },
+    "dip721_types": {
+      "main": "src/core_project/dip721_types.mo",
+      "type": "motoko"
+    },
     "core_project_assets": {
       "dependencies": [
         "core_project"
