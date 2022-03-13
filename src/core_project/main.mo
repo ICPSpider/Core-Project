@@ -243,6 +243,7 @@ actor class DRC721(_name : Text, _symbol : Text) {
         
     };
 
+
     system func postupgrade() {
         tokenURIEntries := [];
         ownersEntries := [];
